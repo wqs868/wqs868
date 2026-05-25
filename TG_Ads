@@ -4,3 +4,11 @@ DOMAIN-KEYWORD,turrit,REJECT
 DOMAIN-SUFFIX,iturrit.com,REJECT
 DOMAIN-SUFFIX,seastar.im,REJECT
 DOMAIN-SUFFIX,telesco.pe,REJECT
+--- X (Twitter) 广告与追踪拦截 ---
+DOMAIN, ads-api.twitter.com, REJECT
+DOMAIN, ads-api.x.com, REJECT
+DOMAIN, analytics.twitter.com, REJECT
+DOMAIN, analytics.x.com, REJECT
+DOMAIN, tracking.roko.mobi, REJECT
+DOMAIN-SUFFIX, crashlytics.com, REJECT
+DOMAIN-KEYWORD, telemetry, REJECT
