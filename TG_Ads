@@ -4,6 +4,9 @@ DOMAIN-KEYWORD,turrit,REJECT
 DOMAIN-SUFFIX,iturrit.com,REJECT
 DOMAIN-SUFFIX,seastar.im,REJECT
 DOMAIN-SUFFIX,telesco.pe,REJECT
+DOMAIN-KEYWORD, t.appsflyer.com, REJECT
+DOMAIN-SUFFIX, app-measurement.com, REJECTDOMAIN-SUFFIX, log.segment.io, REJECT
+DOMAIN, telemetry.telegram.org, REJECT
 --- X (Twitter) 广告与追踪拦截 ---
 DOMAIN, ads-api.twitter.com, REJECT
 DOMAIN, ads-api.x.com, REJECT
