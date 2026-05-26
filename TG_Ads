@@ -12,3 +12,9 @@ DOMAIN, analytics.x.com, REJECT
 DOMAIN, tracking.roko.mobi, REJECT
 DOMAIN-SUFFIX, crashlytics.com, REJECT
 DOMAIN-KEYWORD, telemetry, REJECT
+# 拦截微信小程序、朋友圈及腾讯相关广告域名
+DOMAIN, wxsnsdy.wxs.qq.com, REJECT
+DOMAIN, wxsnsdythumb.wxs.qq.com, REJECT
+DOMAIN, badjs.weixinbridge.com, REJECT
+DOMAIN-SUFFIX, gdt.qq.com, REJECT
+DOMAIN-SUFFIX, e.qq.com, REJECT
