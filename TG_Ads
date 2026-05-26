@@ -21,3 +21,14 @@ DOMAIN, wxsnsdythumb.wxs.qq.com, REJECT
 DOMAIN, badjs.weixinbridge.com, REJECT
 DOMAIN-SUFFIX, gdt.qq.com, REJECT
 DOMAIN-SUFFIX, e.qq.com, REJECT
+# === 1. 拦截 Turrit 的自身广告数据、统计和追踪域名 ===
+DOMAIN-SUFFIX, iturrit.com, REJECT
+DOMAIN-SUFFIX, seastar.im, REJECT
+DOMAIN-SUFFIX, seastargame.com, REJECT
+# === 2. 拦截第三方移动广告联盟（Turrit 调用的穿山甲、腾讯广点通等国际版 SDK） ===
+DOMAIN-KEYWORD, pangle.io, REJECT
+DOMAIN-KEYWORD, pangleglobal, REJECT
+DOMAIN-SUFFIX, byteoversea.com, REJECT
+DOMAIN-SUFFIX, adsapi.org, REJECT
+DOMAIN-SUFFIX, app-measurement.com, REJECT
+DOMAIN-SUFFIX, firebaselogging-pa.googleapis.com, REJECT
