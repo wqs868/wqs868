@@ -1,0 +1,5 @@
+# 平安银行专属直连分流
+DOMAIN-SUFFIX, pingan.com, DIRECT
+DOMAIN-SUFFIX, pingan.com.cn, DIRECT
+DOMAIN-SUFFIX, pingan.com.hk, DIRECT
+DOMAIN-KEYWORD, pingan, DIRECT
