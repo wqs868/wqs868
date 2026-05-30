@@ -1,5 +1,41 @@
 # 平安银行专属直连分流
-DOMAIN-SUFFIX, pingan.com, DIRECT
-DOMAIN-SUFFIX, pingan.com.cn, DIRECT
-DOMAIN-SUFFIX, pingan.com.hk, DIRECT
-DOMAIN-KEYWORD, pingan, DIRECT
+DOMAIN-SUFFIX, pingan.com.cn
+DOMAIN-SUFFIX, pingan.com
+DOMAIN-SUFFIX, pingan.ca
+DOMAIN-SUFFIX, pingan.com.hk
+DOMAIN-SUFFIX, pingan.hk
+DOMAIN-SUFFIX, pinganbank.com.cn
+DOMAIN-SUFFIX, pinganbank.cc
+DOMAIN-SUFFIX, pacloudh.com
+DOMAIN-SUFFIX, pa18.com
+DOMAIN-SUFFIX, pingan.cc
+DOMAIN-SUFFIX, pafm.com.cn
+DOMAIN-SUFFIX, pafg.cn
+DOMAIN-SUFFIX, pahf.com.cn
+DOMAIN-SUFFIX, paanjia.com
+DOMAIN-SUFFIX, pinganfang.com
+DOMAIN-SUFFIX, lufax.com
+DOMAIN-SUFFIX, lufaxcdn.com
+DOMAIN-SUFFIX, lu.com
+DOMAIN-SUFFIX, lu-india.com
+DOMAIN-SUFFIX, yicai.com
+DOMAIN-SUFFIX, jumiwan.com
+DOMAIN-SUFFIX, qzbao.com
+DOMAIN-SUFFIX, 18.com.cn
+DOMAIN-SUFFIX, toshihide.com
+DOMAIN-SUFFIX, wanlitong.com
+DOMAIN-SUFFIX, sanyidai.com
+DOMAIN-SUFFIX, xiejia.com
+DOMAIN-SUFFIX, ca95511.com
+DOMAIN-SUFFIX, paebank.com
+DOMAIN-SUFFIX, pafinancial.com.sg
+DOMAIN-SUFFIX, panyw.com
+DOMAIN-SUFFIX, pinganauto.com.cn
+DOMAIN-SUFFIX, pinganfund.com
+DOMAIN-SUFFIX, pinganhealth.com
+DOMAIN-SUFFIX, pinganmd.com
+DOMAIN-SUFFIX, pingantrust.com
+DOMAIN-SUFFIX, szpaopen.com
+
+DOMAIN-KEYWORD, pingan
+DOMAIN-KEYWORD, pa18
